@@ -1,35 +1,6 @@
-<?php
+### Hi there 👋
 
-namespace AshBaker;
+- 😄 This is my personal blog: <a href="https://www.lihail.cn">lihail.cn</a>
+- 🉑 This is my micro blog: <a href="https://weibo.com/lztcode">liuziting</a>
 
-class About extends Me
-{
-    public function getCurrentWorkplace()
-    {
-        return [
-            'workplace' => [
-                'company' => 'MEA Mobile',
-                'position' => 'Full Stack Developer'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge()
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
-
-    public function getFutureGoal()
-    {
-        return 'To contribute to open source.';
-    }
-}
+we talking in Code ok?
