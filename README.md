@@ -10,5 +10,7 @@ we talking in Code ok?
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=liu-ziting)](https://github.com/liu-ziting/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=liu-ziting&theme=onedark)](https://github.com/liu-ziting/github-profile-trophy)
+
 
 
