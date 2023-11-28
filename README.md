@@ -1,6 +1,7 @@
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06161C&random=false&width=435&lines=Hi+there+%F0%9F%91%8B+welcome%EF%BC%81)](https://git.io/typing-svg)
 
 😄 This is my personal blog: <a href="https://liuziting.netlify.app">liuziting.netlify.app</a>
+<br/>
 🉑 This is my threads: <a href="https://www.threads.net/@nicholaszhaofourya">@nicholaszhaofourya</a>
 
 we talking in Code ok?
