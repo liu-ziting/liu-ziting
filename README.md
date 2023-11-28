@@ -4,3 +4,8 @@
 - 🉑 This is my threads: <a href="https://www.threads.net/@nicholaszhaofourya">@nicholaszhaofourya</a>
 
 we talking in Code ok?
+
+![HuiDBK's github activity graph](https://raw.githubusercontent.com/liu-ziting/liu-ziting/output/github-contribution-grid-snake.svg)
+
+
+
