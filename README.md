@@ -3,8 +3,7 @@
 - Blog: <a href="https://liuziting.netlify.app">liuziting.netlify.app</a>
 - SmartAI: <a href="https://www.smartai.wtf">www.smartai.wtf</a>
 - GeminiChat: <a href="https://gemini.smartai.wtf">gemini.smartai.wtf</a>
-
-- 🉑 This is my threads: <a href="https://www.threads.net/@nicholaszhaofourya">@nicholaszhaofourya</a>
+- Threads: <a href="https://www.threads.net/@nicholaszhaofourya">@nicholaszhaofourya</a>
 
 
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/liu-ziting/liu-ziting/output/github-contribution-grid-snake.svg)
