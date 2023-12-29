@@ -3,6 +3,7 @@
 - Blog: <a href="https://liuziting.netlify.app">liuziting.netlify.app</a>
 - SmartAI: <a href="https://www.smartai.wtf">www.smartai.wtf</a>
 - GeminiChat: <a href="https://gemini.smartai.wtf">gemini.smartai.wtf</a>
+- SmartChat: <a href="https://chat.smartai.wtf">chat.smartai.wtf</a>
 - Threads: <a href="https://www.threads.net/@nicholaszhaofourya">@nicholaszhaofourya</a>
 
 
