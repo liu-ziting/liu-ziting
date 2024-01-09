@@ -4,6 +4,7 @@
 - SmartAI: <a href="https://www.smartai.wtf">www.smartai.wtf</a>
 - GeminiChat: <a href="https://gemini.smartai.wtf">gemini.smartai.wtf</a>
 - SmartChat: <a href="https://chat.smartai.wtf">chat.smartai.wtf</a>
+- iknowwhatyourcatisthinking: <a href="https://iknowwhatyourcatisthinking.netlify.app">iknowwhatyourcatisthinking.netlify.app</a>
 - Threads: <a href="https://www.threads.net/@nicholaszhaofourya">@nicholaszhaofourya</a>
 
 
