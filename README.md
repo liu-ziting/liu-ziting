@@ -6,7 +6,6 @@
 - PetThoughts: <a href="https://iknowwhatyourcatisthinking.netlify.app">iknowwhatyourcatisthinking.netlify.app</a>
 - Blog: <a href="https://paragraph.xyz/@lzt">paragraph.xyz/@lzt</a>
 - Website: <a href="https://liuziting.netlify.app">liuziting.netlify.app</a>
-- Threads: <a href="https://www.threads.net/@nicholaszhaofourya">@nicholaszhaofourya</a>
 
 
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/liu-ziting/liu-ziting/output/github-contribution-grid-snake.svg)
