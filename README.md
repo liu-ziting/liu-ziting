@@ -2,12 +2,8 @@
 
 - SmartAI: <a href="https://www.smartai.wtf">www.smartai.wtf</a>
 - Sora: <a href="https://www.soradesign.top">www.soradesign.top</a>
-- GeminiChat: <a href="https://gemini.smartai.wtf">gemini.smartai.wtf</a>
-- SmartChat: <a href="https://chat.smartai.wtf">chat.smartai.wtf</a>
 - PetThoughts: <a href="https://iknowwhatyourcatisthinking.netlify.app">iknowwhatyourcatisthinking.netlify.app</a>
 - Blog: <a href="https://paragraph.xyz/@lzt">paragraph.xyz/@lzt</a>
-- Website: <a href="https://liuziting.netlify.app">liuziting.netlify.app</a>
-
 
 ![HuiDBK's github activity graph](https://raw.githubusercontent.com/liu-ziting/liu-ziting/output/github-contribution-grid-snake.svg)
 
