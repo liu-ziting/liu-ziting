@@ -2,6 +2,7 @@
 
 - SmartAI: <a href="https://aismart.netlify.app">aismart.netlify.app</a>
 - 通用对话模型: <a href="https://irritable.netlify.app">irritable.netlify.app</a>
+- ChatOllama <a href="https://chatollama.netlify.app">chatollama.netlify.app</a>
 - Sora: <a href="https://www.soradesign.top">www.soradesign.top</a>
 - PetThoughts: <a href="https://iknowwhatyourcatisthinking.netlify.app">iknowwhatyourcatisthinking.netlify.app</a>
 - Blog: <a href="https://paragraph.xyz/@lzt">paragraph.xyz/@lzt</a>
